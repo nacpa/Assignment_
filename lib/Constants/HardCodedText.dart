@@ -1,0 +1,6 @@
+class HardCodedText{
+
+  static String custom ="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Feugiat cursus nulla nunc placerat. Augue volutpat leo gravida tortor. Mattis aliquet quisque varius at consequat. Sagittis at netus felis ultrices convallis venenatis eget ornare tellus. Nisl ac arcu nibh et, sed viverra sit consectetur. Quam sed ligula vehicula quis at mi. Molestie amet, mattis gravida malesuada tincidunt nibh curabitur posuere. Orci fermentum quam lorem purus donec adipiscing malesuada felis orci. Elementum vestibulum eu posuere odio. Mi erat netus in volutpat, aenean tortor non nec. Tortor morbi volutpat suspendisse cras. Non pellentesque quis etiam id. Massa dolor placerat erat sem dignissim in pharetra egestas at. Phasellus sit lorem platea cursusPulvinar sapien, ultrices tortor nulla. Turpis dictum est pellentesque ultrices dolor suspendisse. Consequat arcu dictum sed gravida a. Mattis quisque augue sit non tincidunt imperdiet. Feugiat eget lorem etiam tellus felis nulla. Condimentum ultrices tellus eget suspendisse scelerisque elementum sed lectus. Massa sed turpis nunc mauris cursus interdum accumsan arcu eget. Enim vitae, sit donec at id. Vel adipiscing orci mi turpis. Neque nec sit eros, egestas. At non vitae sed nibh nec.";
+
+
+}
